@@ -1,0 +1,2 @@
+# kasai
+🔥 Minecraft pathfinding bot.
